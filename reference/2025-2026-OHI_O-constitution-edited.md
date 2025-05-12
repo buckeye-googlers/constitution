@@ -69,7 +69,7 @@ If an organization member engages in behavior that is detrimental to advancing t
 
 Community or other non-student members may be temporarily suspended with a majority vote of the Executive Committee.
 
-In the event that the reason for member removal is protected by the Family Educational Rights and Privacy Act (FERPA) or cannot otherwise be shared with members (e.g., while an investigation is pending), {00312468-1} the executive board, in consultation with the organization's advisor, may vote to temporarily suspend a member or executive officer.
+In the event that the reason for member removal is protected by the Family Educational Rights and Privacy Act (FERPA) or cannot otherwise be shared with members (e.g., while an investigation is pending), the executive board, in consultation with the organization's advisor, may vote to temporarily suspend a member or executive officer.
 
 ## ARTICLE V. STUDENT ORGANIZATION ADVISOR
 
